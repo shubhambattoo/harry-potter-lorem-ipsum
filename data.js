@@ -203,6 +203,143 @@ a second chance --"`,
   `The pain had gone as quickly as it had come. Harder to shake off was the
   feeling Harry had gotten from the teacher's look -- a feeling that he
   didn't like Harry at all.`,
+  `"He's not serious?" he muttered to Percy.`,
+  `"Who's that teacher talking to Professor Quirrell?" he asked Percy.`,
+  `"Oh, you know Quirrell already, do you? No wonder he's looking so
+  nervous, that's Professor Snape. He teaches Potions, but he doesn't want
+  to -- everyone knows he's after Quirrell's job. Knows an awful lot about
+  the Dark Arts, Snape."`,
+  `Harry watched Snape for a while, but Snape didn't look at him again.`,
+  `At last, the desserts too disappeared, and Professor Dumbledore got to
+  his feet again. The hall fell silent.`,
+  `"Ahern -- just a few more words now that we are all fed and watered. I
+  have a few start-of-term notices to give you.`,
+  `"First years should note that the forest on the grounds is forbidden to
+  all pupils. And a few of our older students would do well to remember
+  that as well."`,
+  `Dumbledore's twinkling eyes flashed in the direction of the Weasley
+  twins.`,
+  `"I have also been asked by Mr. Filch, the caretaker, to remind you all
+  that no magic should be used between classes in the corridors.`,
+  `"Quidditch trials will be held in the second week of the term. Anyone
+  interested in playing for their house teams should contact Madam Hooch.`,
+  `"And finally, I must tell you that this year, the third-floor corridor
+  on the right-hand side is out of bounds to everyone who does not wish to
+  die a very painful death."`,
+  `"Must be," said Percy, frowning at Dumbledore. "It's odd, because he
+  usually gives us a reason why we're not allowed to go somewhere -- the
+  forest's full of dangerous beasts, everyone knows that. I do think he
+  might have told us prefects, at least."`,
+  `"And now, before we go to bed, let us sing the school song!" cried
+  Dumbledore. Harry noticed that the other teachers' smiles had become
+  rather fixed.`,
+  `Dumbledore gave his wand a little flick, as if he was trying to get a
+  fly off the end, and a long golden ribbon flew out of it, which rose
+  high above the tables and twisted itself, snakelike, into words.`,
+  `"Everyone pick their favorite tune," said Dumbledore, "and off we go!"
+  And the school bellowed:`,
+  `"Hogwarts, Hogwarts, Hoggy Warty Hogwarts,
+  Teach us something please,
+  Whether we be old and bald
+  Or young with scabby knees,
+  Our heads could do with filling
+  With some interesting stuff,
+  For now they're bare and full of air,
+  Dead flies and bits of fluff,
+  So teach us things worth knowing,
+  Bring back what we've forgot,
+  just do your best, we'll do the rest,
+  And learn until our brains all rot.`,
+  `Everybody finished the song at different times. At last, only the
+  Weasley twins were left singing along to a very slow funeral march.
+  Dumbledore conducted their last few lines with his wand and when they had finished, he was one of those who clapped loudest.`,
+  `"Ah, music," he said, wiping his eyes. "A magic beyond all we do here!
+  And now, bedtime. Off you trot!"`,
+  `The Gryffindor first years followed Percy through the chattering crowds,
+  out of the Great Hall, and up the marble staircase. Harry's legs were
+  like lead again, but only because he was so tired and full of food. He
+  was too sleepy even to be surprised that the people in the portraits
+  along the corridors whispered and pointed as they passed, or that twice
+  Percy led them through doorways hidden behind sliding panels and hanging
+  tapestries. They climbed more staircases, yawning and dragging their
+  feet, and Harry was just wondering how much farther they had to go when
+  they came to a sudden halt.`,
+  `A bundle of walking sticks was floating in midair ahead of them, and as
+  Percy took a step toward them they started throwing themselves at him.`,
+  `"Peeves," Percy whispered to the first years. "A poltergeist." He raised
+  his voice, "Peeves -- show yourself"`,
+  `A loud, rude sound, like the air being let out of a balloon, answered.`,
+  `"Do you want me to go to the Bloody Baron?"`,
+  `There was a pop, and a little man with wicked, dark eyes and a wide
+  mouth appeared, floating cross- legged in the air, clutching the walking
+  sticks.`,
+  `"Oooooooh!" he said, with an evil cackle. "Ickle Firsties! What fun!"`,
+  `He swooped suddenly at them. They all ducked.`,
+  `"Go away, Peeves, or the Baron'll hear about this, I mean it!" barked
+  Percy.`,
+  `Peeves stuck out his tongue and vanished, dropping the walking sticks on
+  Neville's head. They heard him zooming away, rattling coats of armor as
+  he passed.`,
+  `"You want to watch out for Peeves," said Percy, as they set off again.
+  "The Bloody Baron's the only one who can control him, he won't even
+  listen to us prefects. Here we are."`,
+  `At the very end of the corridor hung a portrait of a very fat woman in a
+  pink silk dress.`,
+  `"Password?" she said. "Caput Draconis," said Percy, and the portrait
+  swung forward to reveal a round hole in the wall. They all scrambled
+  through it -- Neville needed a leg up -- and found themselves in the
+  Gryffindor common room, a cozy, round room full of squashy armchairs.`,
+  `Percy directed the girls through one door to their dormitory and the
+  boys through another. At the top of a spiral staircase -- they were
+  obviously in one of the towers -- they found their beds at last: five
+  four-posters hung with deep red, velvet curtains. Their trunks had
+  already been brought up. Too tired to talk much, they pulled on their
+  pajamas and fell into bed.`,
+  `" Great food, isn't it?" Ron muttered to Harry through the hangings.
+  "Get off, Scabbers! He's chewing my sheets."`,
+  `Harry was going to ask Ron if he'd had any of the treacle tart, but he
+  fell asleep almost at once.`,
+  `Perhaps Harry had eaten a bit too much, because he had a very strange
+  dream. He was wearing Professor Quirrell's turban, which kept talking to
+  him, telling him he must transfer to Slytherin at once, because it was
+  his destiny. Harry told the turban he didn't want to be in Slytherin; it
+  got heavier and heavier; he tried to pull it off but it tightened
+  painfully -- and there was Malfoy, laughing at him as he struggled with
+  it -then Malfoy turned into the hook-nosed teacher, Snape, whose laugh
+  became high and cold -- there was a burst of green light and Harry woke,
+  sweating and shaking.`,
+  `He rolled over and fell asleep again, and when he woke next day, he
+  didn't remember the dream at all.`,
+  `Whispers followed Harry from the moment he left his dormitory the next
+  day. People lining up outside classrooms stood on tiptoe to get a look
+  at him, or doubled back to pass him in the corridors again, staring.
+  Harry wished they wouldn't, because he was trying to concentrate on
+  finding his way to classes.`,
+  `There were a hundred and forty-two staircases at Hogwarts: wide,
+  sweeping ones; narrow, rickety ones; some that led somewhere different
+  on a Friday; some with a vanishing step halfway up that you had to
+  remember to jump. Then there were doors that wouldn't open unless you
+  asked politely, or tickled them in exactly the right place, and doors
+  that weren't really doors at all, but solid walls just pretending. It
+  was also very hard to remember where anything was, because it all seemed
+  to move around a lot. The people in the portraits kept going to visit
+  each other, and Harry was sure the coats of armor could walk.`,
+  `The ghosts didn't help, either. It was always a nasty shock when one of
+  them glided suddenly through a door you were trying to open. Nearly
+  Headless Nick was always happy to point new Gryffindors in the right
+  direction, but Peeves the Poltergeist was worth two locked doors and a
+  trick staircase if you met him when you were late for class. He would
+  drop wastepaper baskets on your head, pull rugs from under your feet,
+  pelt you with bits of chalk, or sneak up behind you, invisible, grab
+  your nose, and screech, "GOT YOUR CONK!"`,
+  `Even worse than Peeves, if that was possible, was the caretaker, Argus
+  Filch. Harry and Ron managed to get on the wrong side of him on their
+  very first morning. Filch found them trying to force their way through a
+  door that unluckily turned out to be the entrance to the out-of-bounds
+  corridor on the third floor. He wouldn't believe they were lost, was
+  sure they were trying to break into it on purpose, and was threatening
+  to lock them in the dungeons when they were rescued by Professor
+  Quirrell, who was passing.`,
 ];
 
 export default text;
